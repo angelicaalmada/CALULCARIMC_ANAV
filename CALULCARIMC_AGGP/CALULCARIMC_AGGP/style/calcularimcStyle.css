@@ -1,0 +1,35 @@
+﻿^ContentPage {
+    background-color: black;
+    padding: 20,0,20,0;
+}
+
+iframe.titulo {
+    background-color: white;
+    border-radius: 2px,0px,2px,0px;
+}
+
+label {
+    color: white;
+    font-size:medium;
+}
+
+#encabezado {
+    color: black;
+    font-size: 35;
+    font-weight: bold;
+}
+
+entry {
+    color: red;
+    font-weight: bold;
+}
+
+#resultado {
+    color: red;
+    font-weight: bold;
+    font-size:medium;
+}
+
+button.calcular {
+    background-color: white;
+}
